@@ -46,6 +46,18 @@
 
 }
 
+.header__menu li img{
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+}
+
+.header__menu-mobile{
+    display: none;
+    gap: 20px;
+
+    position: relative;
+}
 
 .header__logo{
 
